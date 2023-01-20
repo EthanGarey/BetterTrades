@@ -1,0 +1,8 @@
+name: BetterTrades
+version: '${project.version}'
+main: BetterTrades.Main
+api-version: 1.13
+authors: [ EthanGarey ]
+commands:
+  trade:
+    permission: hi

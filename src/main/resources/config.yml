@@ -1,0 +1,11 @@
+# Welcome to BetterTrades, made by EthanGarey! #
+# To learn how to use this plugin as an operator #
+# Use /BetterTrades help! If you have any questions, join our discord server #
+# With /BetterTrades discord! #
+# Have fun! #
+
+permissions:
+  bettertrades-help-menu:
+    BetterTrades.permission.help
+  bettertrades-trade-other-player:
+    BetterTrades.permission.trade.other
